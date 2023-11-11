@@ -1,0 +1,1 @@
+Simple project Employee Manager with Angular + Spring
